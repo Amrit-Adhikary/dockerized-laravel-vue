@@ -205,12 +205,3 @@ Run anytime with:
 
 ./run_all.sh
 
-📌 Part 4 — Push to GitHub
-
-cd ~/cloudtech-devops-task
-git init
-git add .
-git commit -m "CloudTech DevOps Pre-screening Task"
-git remote add origin YOUR_GITHUB_REPO_URL
-git branch -M main
-git push -u origin main
